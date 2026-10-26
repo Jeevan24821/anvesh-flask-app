@@ -8,3 +8,4 @@ pymupdf>=1.24.0
 gunicorn>=21.2.0
 sentence-transformers>=3.0.0; extra == "ai"
 bcrypt>=4.0.0
+PyJWT>=2.8.0
